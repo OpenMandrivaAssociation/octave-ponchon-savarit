@@ -3,7 +3,7 @@
 Summary:	A toolbox for the Ponchón-Savarit method for GNU Octave
 Name:		octave-ponchon-savarit
 Version:	1.0.0
-Release:	1
+Release:	2
 License:	GPLv3+
 Group:		Sciences/Mathematics
 #Url:		https://packages.octave.org/ponchon-savarit/
